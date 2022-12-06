@@ -10,7 +10,7 @@ To add a keyframe for a specific property you simply click the keyframe icon in 
 ![Using keyframes](./img/using-keyframes-01.jpg)
 
 ## Moving keyframes
-To move a keyframe you can simply drag it along the timeline. To help you position it correctly it will snap to your time handle. Whilst moving a keyframe a label with the current timecode will appear above the keyframe icon to make it easier to place the frame. To move a keyframe to an exact timecode you can also use the keyframe editor. (Read more about the [Keyframe Editor](./keyframe-editor))
+To move a keyframe you can simply drag it along the timeline. To help you position it correctly it will snap to your time handle. Whilst moving a keyframe a label with the current timecode will appear above the keyframe icon to make it easier to place the frame. To move a keyframe to an exact timecode you can also use the keyframe editor. (Read more about the [Keyframe Editor](./the-keyframe-editor))
 
 ## Deleting keyframes
 To delete one or more keyframes you need to select it first by clicking it. Once selected you can simply hit the `Delete` key to remove the keyframe.  
