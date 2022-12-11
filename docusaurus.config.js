@@ -64,6 +64,12 @@ const config = {
             label: 'Intro',
           },
           {
+            to: 'blog',
+            docId: 'blog',
+            position: 'left',
+            label: 'Blog',
+          },
+          {
             href: 'https://github.com/LiamMartens/figmotion-standalone-docs',
             label: 'GitHub',
             position: 'right',
