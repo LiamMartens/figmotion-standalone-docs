@@ -1,6 +1,6 @@
 ---
 title: Creating a floating heart with a simple expression
-description: This is my first post on Docusaurus 2.
+description: A quick guide on how to use expresssions.
 slug: floating-heart-expression
 authors: liam
 tags: [expessions]
