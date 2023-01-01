@@ -7,3 +7,5 @@ sidebar_position: 7
 
 ### Notes
 > Animating individual stroke widths is only supported on Frames and Rectangles.
+
+> Individual stroke widths is not supported in Lottie.
