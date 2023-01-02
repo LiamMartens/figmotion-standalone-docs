@@ -58,10 +58,14 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
+            to: 'docs/intro',
             position: 'left',
             label: 'Intro',
+          },
+          {
+            to: 'docs/getting-started',
+            position: 'left',
+            label: 'Getting Started',
           },
           {
             to: 'blog',
