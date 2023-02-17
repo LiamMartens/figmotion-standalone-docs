@@ -8,7 +8,7 @@ image: https://i.imgur.com/z1hWHQC.gif
 hide_table_of_contents: false
 ---
 
-With the introduction of expressions in Figmotion ([Advanced animations with expressions](http://localhost:3000/docs/animating/advanced-animations-with-expressions)) it has now become super easy to create repetitive (yet complex) animations.
+With the introduction of expressions in Figmotion ([Advanced animations with expressions](/docs/animating/advanced-animations-with-expressions)) it has now become super easy to create repetitive (yet complex) animations.
 
 In this small guide we will be creating a floating heart animation with just a single expression keyframe.
 
