@@ -19,7 +19,7 @@ Once the plugin launches you will see small plugin window with a one-time use co
 
 Once both are open you can copy the code, enter it in the "one-time code" field and press `Enter` or hit `Submit`. Alternatively you can also login with your Figma account. This method will keep you logged in so you do not need to re-enter the one time code each time. This will connect the timeline app to the plugin.
 
-nce this is done you will see the plugin has completed the handshake.
+Once this is done you will see the plugin has completed the handshake.
 
 > **Note**  
 > Although the distinct user interface might seem unfamiliar at first, it operates in the same way as the previous "in-app" experience. Additionally, it offers the advantage of placing the timeline anywhere on your screen, or even on a separate screen. Despite being a standalone app, it remains linked to your Figma window, just like the plugin.
