@@ -17,18 +17,19 @@ Once the plugin launches you will see small plugin window with a one-time use co
 ![Plugin with one time code](./img/opening-the-plugin-02.jpg)
 ![Standalone app](./img/opening-the-plugin-03.jpg)
 
-Once both are open you can copy the code, enter it in the "one-time code" field and press `Enter` or hit `Submit`. This will connect the app to the plugin. To complete the handshake you will need to return to the plugin and press `Step 2`.
+Once both are open you can copy the code, enter it in the "one-time code" field and press `Enter` or hit `Submit`. Alternatively you can also login with your Figma account. This method will keep you logged in so you do not need to re-enter the one time code each time. This will connect the timeline app to the plugin.
 
-You should notice a new screen in the standalone app displaying another one-time code to complete the handhsake. You can copy this final code and enter it in the plugin window to complete the handshake.  
+nce this is done you will see the plugin has completed the handshake.
 
-![Standalone app with final code](./img/opening-the-plugin-04.jpg)
-![Plugin to complete handshake](./img/opening-the-plugin-05.jpg)
-
-Once this is done you will see the plugin has completed the handshake.
+> **Note**  
+> Although the distinct user interface might seem unfamiliar at first, it operates in the same way as the previous "in-app" experience. Additionally, it offers the advantage of placing the timeline anywhere on your screen, or even on a separate screen. Despite being a standalone app, it remains linked to your Figma window, just like the plugin.
 
 ![Plugin ready](./img/opening-the-plugin-06.jpg)
 
 Additionally, the standalone app will either display a frame selection dialog or it will simply display your animation timeline (if you had a frame pre-selected in Figma during the handshake).
+
+> **Note**  
+> When using the Frame selection dialog, it will display only the "top-level" frames. If you plan to animate a child frame, ensure that you select it during the connection setup.
 
 ![Frame selection dialog](./img/opening-the-plugin-07.jpg)
 ![Standalone timeline](./img/opening-the-plugin-08.jpg)
