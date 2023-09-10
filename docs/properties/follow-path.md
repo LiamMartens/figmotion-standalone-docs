@@ -10,4 +10,4 @@ A guide for the follow path property is available as a [blog post](/blog/using-f
 ### Notes
 > Follow path requires an initial position or end position to work
 
-> You need a vector layer to follow along. The layer can be hidden.
+> You need a vector layer to follow along.
