@@ -17,6 +17,13 @@ By default your nodes will have their anchor point set in the middle of the obje
 ## Changing the value
 Depending on the property you are animating you will see either a simple number input or a more specialized control such as a color picker. You can either enter the new value manually or you can change the node itself and use the `Copy current value from Figma` action to insert the new value automatically.
 
+### Using variables
+*Only available in standard*  
+
+With the standard plan you get access to variables support in Figmotion. Variables are currently supported in most decimal fields and the text content field. You can use the cog icon inside the input to select a variable. Once selected, the variable name will show in the input. To remove the reference, you can double-click the "tag" and the variable reference will be replaced with it's resolved value.  
+
+![Select variable](./img/varbiables-1.jpg)  
+
 ## Customizing the easing
 Using the easing select box you can select between simple predefined easings or you can use a custom easing. When selecting custom you will be able to customize your easing using a timing curve. For more fine control over your easing curve you can always input the values manually in the input box.
 
