@@ -4,7 +4,7 @@ description: This post is a short introduction on using the new component proper
 slug: brief-introduction-component-properties
 authors: liam
 tags: []
-image: /img/2023-10-04-major-update/figmotion-3.0.0.jpg
+image: /img/2023-10-13-component-properties-example/thumbnail.gif
 hide_table_of_contents: false
 ---
 
