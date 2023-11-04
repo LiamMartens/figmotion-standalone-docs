@@ -97,7 +97,7 @@ const config = {
             items: [
               {
                 label: 'Slack',
-                href: 'https://join.slack.com/t/figmotion/shared_invite/zt-1l2ivvyet-6GFIGoydIdI64FCVbs40NQ',
+                href: 'https://join.slack.com/t/figmotion/shared_invite/zt-26ps79xlc-Q9uPVIOktbcKdvg0CCKP1A',
               },
               {
                 label: 'Twitter',
